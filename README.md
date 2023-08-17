@@ -55,7 +55,7 @@ I'm an **Student🎓 [@LNKTR]([https://linktr.ee/raphael065])** pursuing SI. I'm
 
 ### 🚀 Quick Stats
 <p align="center">
-<img width="450" align="left" src="https://github-readme-stats-Raphael065.vercel.app/api?username=Raphael065&show_icons=true&line_height=21&theme=react" alt="Raphael065's Github Stats" />
+<img width="450" align="left" src="https://github-readme-stats.vercel.app/api?username=Raphael065&show_icons=true&line_height=21&theme=react" alt="Raphael065's Github Stats" />
 <!-- <img width="340" height="155" align="center" 
      src="https://github-readme-stats-Raphael065.vercel.app/api/top-langs/?username=Raphael065&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" /> -->
 </p>
