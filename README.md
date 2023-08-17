@@ -14,7 +14,7 @@ I'm an **Student🎓 [@LNKTR]([https://linktr.ee/raphael065])** pursuing SI. I'm
 
 
 ## ⚡️ A Few Quick Facts
-
+**`Twitch Game Developer`**
 - 🔭 I’m currently working on NLP Project
 - 🌱 I’m currently learning Java ☕
 <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
